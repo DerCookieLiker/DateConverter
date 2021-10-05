@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1633445955 source:c:\users\gabri\documents\schule\pos\cpp\dateconverter\main.cpp
+	<iostream>
+	"Date.h"
+	"DateConverter.h"
+
+1633436113 c:\users\gabri\documents\schule\pos\cpp\dateconverter\date.h
+
+1633436104 source:c:\users\gabri\documents\schule\pos\cpp\dateconverter\date.cpp
+	"Date.h"
+
+1633446011 source:c:\users\gabri\documents\schule\pos\cpp\dateconverter\dateconverter.cpp
+	"DateConverter.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1633437913 c:\users\gabri\documents\schule\pos\cpp\dateconverter\dateconverter.h
+	"Date.h"
+
